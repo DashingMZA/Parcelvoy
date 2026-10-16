@@ -30,7 +30,7 @@
     "dotenv": "^16.6.1",
     "eslint-plugin-import": "^2.32.0",
     "eventemitter2": "^6.4.9",
-    "handlebars": "^4.7.8",
+    "handlebars": "^4.7.10",
     "handlebars-utils": "^1.0.6",
     "hashids": "^2.3.0",
     "html-to-text": "^9.0.5",
